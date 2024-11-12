@@ -1,4 +1,4 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=03milosevicN&layout=compact&theme=tokyonight&langs_count=6" width="300px" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=03milosevicN&layout=compact&show_icons=true&theme=tokyonight&hide=stars" width="300px" height="200px" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=03milosevicN&layout=compact)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=03milosevicN&show_icons=true&bg_color=00000000)
 </div>
